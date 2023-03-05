@@ -2,13 +2,13 @@
 # print("Hello " + input("what is your name?"))
 
 #Variables 
-name = "Jack"
-print(name)
+#name = "Jack"
+#print(name)
 
-name = "Angela"
-print(name)
+#name = "Angela"
+#print(name)
 
-user_name = input("What is your name? ")
-length = len(name)
+#user_name = input("What is your name? ")
+#length = len(name)
 
-print(length)
+#print(length)
